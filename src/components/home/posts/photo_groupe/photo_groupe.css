@@ -1,0 +1,64 @@
+.posts{
+    flex-grow:20;
+    align-self:center;
+  
+   
+  
+   
+  }
+  .postHead{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width:850px;
+    height:390px; 
+  
+  
+  }
+  
+  .imgcouv{
+      height:auto;
+      width:850px;
+      border-radius: 0%;
+      margin-top: 0px;
+      padding-top: 0px;
+      padding-left: 0px;
+  }
+  .post0{
+      color : #808080;
+     
+  }
+  .post1{
+    background-color: white;
+    width:850px;
+    height:400px; 
+  }
+  .underCouver{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .btn-group button {
+    background-color: #e7e7e7; 
+    border: 1px solid grey; 
+    color: black; 
+    padding: 10px 24px; 
+   
+    
+  }
+  
+  .btn-group button:not(:last-child) {
+    border-right: none; 
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .btn-group:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+    background-color: #e7e7e7;
+  }

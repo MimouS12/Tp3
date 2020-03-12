@@ -1,0 +1,37 @@
+.amisconn{
+    flex-grow: 3;
+    position: absolute;
+    right: 35px;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    font-size: 13px;
+}
+.contactName{
+    margin-top: 10px;
+    line-height: 20px;
+    font-size: 10px;
+}
+.nomPic{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.imgPdp{
+    width: 30px;
+}
+.cercle {
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+    background:green;
+   
+}
+.persCer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}

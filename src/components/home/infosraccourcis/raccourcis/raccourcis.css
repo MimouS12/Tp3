@@ -1,0 +1,22 @@
+.partRac{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    
+}
+
+.racc{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ font-size: 12px;
+  
+}
+.imgRacc{
+    width: 17px;
+    height: 17px;
+    
+}
+
+
+ 

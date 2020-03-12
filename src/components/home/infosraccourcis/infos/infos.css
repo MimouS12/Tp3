@@ -1,0 +1,28 @@
+.infos{
+  flex-grow: 4;
+
+}
+.texte{
+  color : #808080;
+  font-weight:bold;
+
+}
+.rubriques{
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+ font-size: 14px;
+}
+.rubtag{
+  padding-left: 10px;
+}
+.bor{
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding-top: 1px;
+  font-weight: bolder;
+  
+  background-color: whitesmoke;
+}
+
+
